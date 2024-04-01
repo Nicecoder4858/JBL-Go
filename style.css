@@ -1,0 +1,40 @@
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+font-family: "Pacifico", cursive;
+}
+*::selection{
+    background-color: transparent;
+}
+html,body{
+height:100%;
+width:100%;
+}
+.main{
+    position:relative;
+}
+.page1{
+    background:transparent;
+    height:230vh;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+
+}
+.page1 h1{
+    font-size:15vw;
+    color:rgb(255, 72, 0);
+}
+.page2{
+    position: relative;
+    overflow:hidden;
+    height:2000vh;
+    width:100%;
+    background:transparent;
+}
+canvas{
+    position: absolute;
+    z-index:9;
+}
