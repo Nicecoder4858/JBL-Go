@@ -909,49 +909,11 @@ function files(index) {
   frame_858.jpg
   frame_859.jpg
   frame_860.jpg
-  frame_861.jpg
-  frame_862.jpg
-  frame_863.jpg
-  frame_864.jpg
-  frame_865.jpg
-  frame_866.jpg
-  frame_867.jpg
-  frame_868.jpg
-  frame_869.jpg
-  frame_870.jpg
-  frame_871.jpg
-  frame_872.jpg
-  frame_873.jpg
-  frame_874.jpg
-  frame_875.jpg
-  frame_876.jpg
-  frame_877.jpg
-  frame_878.jpg
-  frame_879.jpg
-  frame_880.jpg
-  frame_881.jpg
-  frame_882.jpg
-  frame_883.jpg
-  frame_884.jpg
-  frame_885.jpg
-  frame_886.jpg
-  frame_887.jpg
-  frame_888.jpg
-  frame_889.jpg
-  frame_890.jpg
-  frame_891.jpg
-  frame_892.jpg
-  frame_893.jpg
-  frame_894.jpg
-  frame_895.jpg
-  frame_896.jpg
-  frame_897.jpg
-  frame_898.jpg
  `;
   return data.split("\n")[index];
 }
 
-const frameCount = 874;
+const frameCount = 861;
 
 const images = [];
 const imageSeq = {
